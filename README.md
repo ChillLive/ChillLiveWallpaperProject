@@ -4,8 +4,7 @@ Images
 
 **<div align="center">Illuminate your screen with light pastel colors and scenes that change softly during the day.**</div>
 
-What is this app?
-=======
+# What is this app?
 
 _This little app is meant to make one travel to different lands, where the sky is always blue and countless stars twinkle in the night.
 Every day, the Sun rises and sets at times based on your location, illuminating the scene in soft pastel colors. Through the year, the amount of snow and the color of the scene will change based on the season._
@@ -22,26 +21,20 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
   </div>
 
 
-Features
-=======
+# Features
 
-* Chill theme, displaying pastel colors that change softly during the day
-
-* The day and night cycle changes according to the user's location (if permission granted), with live sunrise/sunset
-
-* The scenes elements move or twinkle softly, such as the trees and stars
-
-* Different scenes are available (more to come)
-
-* The user can create random scene shapes easily
-
+* Chill themes, displaying pastel colors that change softly during the day
+* The day and night cycle changes according to the user's location, with live sunrise/sunset - _if permission granted_
+* Some of the scenes elements move or twinkle softly, such as the trees and stars
+* Different scenes are available, with more to come in the future - _if I'm satisfied with the outcome_
+* Easy one tap pseudo random scene shapes creation
 * Parallax effect when scrolling the home screen
+* Different "seasons" are available, changing the overall colors/scene and feel of the wallpaper
 
-* Different "seasons" are available, changing the overall colors/scene and feel
+#### What do you sign for?
 
-* Ad free, no locked content (only a tip system)
-
+* No ads! This is a feel good app, so no ugly banners or annoying popup windows
+* No locked/premium content at the moment - _only a tip system for the ones who feel generous :D_
 * No personal data stored or used
-
-* Low battery usage (never mentioned in any Android report, no significant impact on battery life)
+* Low battery consuption - _never mentioned in any Android report. No significant impact on battery life noticed by the users_
 
