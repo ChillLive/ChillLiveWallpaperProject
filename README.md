@@ -8,7 +8,7 @@
 
 **<div align="center">Illuminate your screen with light pastel colors and scenes that change slowly over the course of the day.**</div>
 
-# What is this app?
+# A Chill live wallpaper?
 
 _This little app is meant to make one travel to different lands, where the sky is always blue and countless stars twinkle in the night.
 Every day, the Sun rises and sets at times based on your location, illuminating the scene in soft pastel colors. Through the year, the amount of snow and the color of the scene will change based on the season._
