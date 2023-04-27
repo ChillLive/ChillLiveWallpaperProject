@@ -16,7 +16,7 @@ Every day, the Sun rises and sets at times based on your location, illuminating 
 
 _This app is 100% ad free, and your data stays on your device.
 You can use this app as a light/dark automatic mode. The battery consumption is optimized and you shouldn't notice any difference compared to a standard wallpaper._
-
+ 
 <div align="center">
   
   _Just relax, choose your wallpaper and start the journey!_
@@ -41,7 +41,7 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
 
 * No ads! This is a feel good app, so no ugly banners or annoying popup windows
 * No locked/premium content at the moment - _only a tipping system for the generous souls :D_
-* The app can use you coarse location to determine your local sunrise and sunset times
+* The app can use the device coarse location to determine its local sunrise and sunset times
 * Using this feature triggers a web request to [sunrise-sunset.org](https://sunrise-sunset.org)
 * No personal data is stored/used in any way by this app, other than to provide sunrise/sunset times
 * Low battery consumption - _never mentioned in any Android report. No significant impact on battery life noticed by the users_
