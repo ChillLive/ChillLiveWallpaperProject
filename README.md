@@ -1,4 +1,8 @@
-# Chill Live Wallpaper Project
+<div align="center"> 
+  
+  # Chill Live Wallpaper Project 
+
+</div>
 
 ![This is a showcase](/Assets/showcase.png "showcase")
 
@@ -16,7 +20,7 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
   
   _Just relax, choose your wallpaper and start the journey!_
   
-  [Dowload the app on Google Play Store.](https://play.google.com/store/apps/details?id=com.chilllive.chillwallpaperproject)
+  [Dowload the app on Google Play Store](https://play.google.com/store/apps/details?id=com.chilllive.chillwallpaperproject)
   
   </div>
 
