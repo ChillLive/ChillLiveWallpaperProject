@@ -7,9 +7,9 @@
 
 ![This is a showcase](/Assets/showcase.png "showcase")
 
-**<div align="center">Illuminate your screen with light pastel colors and scenes that change slowly over the course of the day.**</div>
+**<div align="center">Illuminate your screen with light pastel colors and scenes that change slowly over the course of the day**</div>
 
-## A Chill live wallpaper?
+## 🌲 A Chill live wallpaper?
 
 _This little app is meant to make one travel to different lands, where the sky is always blue and countless stars twinkle in the night.
 Every day, the Sun rises and sets at times based on your location, illuminating the scene in soft pastel colors. Through the year, the amount of snow and the color of the scene will change based on the season._
@@ -23,9 +23,11 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
   
   [Dowload the app on Google Play Store](https://play.google.com/store/apps/details?id=com.chilllive.chillwallpaperproject)
   
+  This app is - _and will_ - only be available on the Google Play Store
+  
   </div>
 
-## Features
+## ☀️ Features
 
 * Chill themes, displaying pastel colors that change slowly during the day
 * The day and night cycle changes according to the user's location, with live sunrise/sunset - _if permission granted_
@@ -44,7 +46,7 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
 * No personal data is stored/used in any way by this app, other than to provide sunrise/sunset times
 * Low battery consumption - _never mentioned in any Android report. No significant impact on battery life noticed by the users_
 
-## How to use
+## 🌙 How to use
 
 <img align="right" src="/Assets/showcaseGif.gif" width="200" height="450">
 
@@ -77,13 +79,14 @@ This app is still in development. Therefore, you might encounter unexpected beha
 As a non professional app developer and working on this project as a hobby on my free time, implementing some new features might take time, or maybe not happen at all.
 Please keep this in mind when using this app.
 
-## Known issues
+## ⛅ Known issues
 * Scrolling can be slow, or even not happen on less powerful/older device. This is due to overdrawing scene layer/elements at high frame rate
 * Scrolling is not enabled in landscape mode, and the scene is a little weird
 * On certain devices, the first layer starts to delaminate on the right side of the scene
 * The contrast between the text and the background can be sometimes low, making it hard to read the options
 
-## Support the project
+
+## ❤️ Support the project
 If you consider supporting the project, THANK YOU!
 
 Please, read the disclaimer section before continuing. When contributing, keep in mind that this app is _- for me -_ already in an advanced state,
