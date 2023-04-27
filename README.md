@@ -2,7 +2,7 @@
 
 ![This is a showcase](/Assets/showcase.png "showcase")
 
-**<div align="center">Illuminate your screen with light pastel colors and scenes that change softly during the day**</div>
+**<div align="center">Illuminate your screen with light pastel colors and scenes that change slowly over the course of the day.**</div>
 
 # What is this app?
 
@@ -23,7 +23,7 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
 
 # Features
 
-* Chill themes, displaying pastel colors that change softly during the day
+* Chill themes, displaying pastel colors that change slowly during the day
 * The day and night cycle changes according to the user's location, with live sunrise/sunset - _if permission granted_
 * Some of the scenes elements move or twinkle softly, such as the trees and stars
 * Different scenes are available, with more to come in the future - _if I'm satisfied with the outcome_
@@ -34,9 +34,9 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
 #### What do you sign for?
 
 * No ads! This is a feel good app, so no ugly banners or annoying popup windows
-* No locked/premium content at the moment - _only a tip system for the generous souls :D_
+* No locked/premium content at the moment - _only a tipping system for the generous souls :D_
 * No personal data stored or used in any way - _no third parties!_
-* Low battery consuption - _never mentioned in any Android report. No significant impact on battery life noticed by the users_
+* Low battery consumption - _never mentioned in any Android report. No significant impact on battery life noticed by the users_
 
 # How to use
 
@@ -44,7 +44,7 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
 * Modify the app's behavior from here. Control the light of the scene by adjusting manually the time of the day, or just let it follows the real day&night cycle.
 * Allows the app to access your coarse location to set the sunset/sunrise time to match your real position
 * Use a seed or generate a new pseudo random scene
-* Advanced settings controls the behavior of the scrolling effect
+* Advanced settings control the behavior of the scrolling effect
 
 **2. Landscapes and seasons** 
 * Change the season to access a new variety of colors
