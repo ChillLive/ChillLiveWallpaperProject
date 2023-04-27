@@ -9,7 +9,7 @@
 
 **<div align="center">Illuminate your screen with light pastel colors and scenes that change slowly over the course of the day**</div>
 
-## 🌲 A Chill live wallpaper?
+## :mountain: A Chill live wallpaper?
 
 _This little app is meant to make one travel to different lands, where the sky is always blue and countless stars twinkle in the night.
 Every day, the Sun rises and sets at times based on your location, illuminating the scene in soft pastel colors. Through the year, the amount of snow and the color of the scene will change based on the season._
@@ -46,7 +46,7 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
 * No personal data is stored/used in any way by this app, other than to provide sunrise/sunset times
 * Low battery consumption - _never mentioned in any Android report. No significant impact on battery life noticed by the users_
 
-## 🌙 How to use
+## :last_quarter_moon: How to use
 
 <img align="right" src="/Assets/showcaseGif.gif" width="200" height="450">
 
@@ -66,7 +66,7 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
 **4. Contribute** 
 * App description, contribute to the project and rate the app from here
 
-## What's next?
+## :hatching_chick: What's next?
 I have many ideas to implement, such as:
 * More parallax settings
 * Different landscapes and scenes
@@ -74,12 +74,12 @@ I have many ideas to implement, such as:
 * Details like the Moon, clouds
 * Weather system - _in a far future_
 
-## Disclaimer
+## :exclamation: Disclaimer
 This app is still in development. Therefore, you might encounter unexpected behaviors, bugs and performance issues.
 As a non professional app developer and working on this project as a hobby on my free time, implementing some new features might take time, or maybe not happen at all.
 Please keep this in mind when using this app.
 
-## ⛅ Known issues
+## :sun_behind_small_cloud: Known issues
 * Scrolling can be slow, or even not happen on less powerful/older device. This is due to overdrawing scene layer/elements at high frame rate
 * Scrolling is not enabled in landscape mode, and the scene is a little weird
 * On certain devices, the first layer starts to delaminate on the right side of the scene
