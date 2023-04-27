@@ -2,20 +2,25 @@
 
 Images
 
-**<div align="center"> Illuminate your screen with light pastel colors and scenes that change softly during the day.**
+**<div align="center">Illuminate your screen with light pastel colors and scenes that change softly during the day.**</div>
 
 What is this app?
 =======
 
 _This little app is meant to make one travel to different lands, where the sky is always blue and countless stars twinkle in the night.
-Every day, the Sun rises and sets at times based on your location, illuminating the scene in soft pastel colors. Through the year, the amount of snow and the color of the scene will change based on the season.
+Every day, the Sun rises and sets at times based on your location, illuminating the scene in soft pastel colors. Through the year, the amount of snow and the color of the scene will change based on the season._
 
-This app is 100% ad free, and your data stays on your device.
-You can use this app as a light/dark automatic mode. The battery consumption is optimized and you shouldn't notice any difference compared to a standard wallpaper.
+_This app is 100% ad free, and your data stays on your device.
+You can use this app as a light/dark automatic mode. The battery consumption is optimized and you shouldn't notice any difference compared to a standard wallpaper._
 
-Just relax, choose your wallpaper and start the journey!_
+<div align="center">
+  
+  _Just relax, choose your wallpaper and start the journey!_
+  
+  [Dowload the app on Google Play Store.](https://play.google.com/store/apps/details?id=com.chilllive.chillwallpaperproject)
+  
+  </div>
 
-[Dowload the app on Google Play Store](https://play.google.com/store/apps/details?id=com.chilllive.chillwallpaperproject).
 
 Features
 =======
