@@ -24,7 +24,6 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
   
   </div>
 
-
 # Features
 
 * Chill themes, displaying pastel colors that change slowly during the day
@@ -44,6 +43,8 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
 
 # How to use
 
+<img align="right" src="/Assets/showcaseGif.gif" width="200" height="450">
+
 **1. Times and colors** 
 * Modify the app's behavior from here. Control the light of the scene by adjusting manually the time of the day, or just let it follows the real day&night cycle.
 * Allows the app to access your coarse location to set the sunset/sunrise time to match your real position
@@ -55,7 +56,7 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
 * Select the scene you like the most.
 
 **3. Set this background as wallpaper** 
-* Tapping this button will generate the app background live wallpaper
+* Generate a live wallpaper preview based on the app current background
 
 **4. Contribute** 
 * App description, contribute to the project and rate the app from here
