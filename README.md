@@ -1,6 +1,6 @@
 # Chill Live Wallpaper Project
 
-Images
+![This is a showcase](/Assets/showcase.png "showcase")
 
 **<div align="center">Illuminate your screen with light pastel colors and scenes that change softly during the day.**</div>
 
