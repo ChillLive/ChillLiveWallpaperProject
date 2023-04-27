@@ -59,7 +59,7 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
 * Select the scene you like the most.
 
 **3. Set this background as wallpaper** 
-* Generate a live wallpaper preview based on the app current background
+* Generate a live wallpaper preview based on the current app background
 
 **4. Contribute** 
 * App description, contribute to the project and rate the app from here
@@ -84,7 +84,7 @@ Please keep this in mind when using this app.
 * The contrast between the text and the background can be sometimes low, making it hard to read the options
 
 ## Support the project
-If you're considering to contribute to the project, THANK YOU!
+If you consider supporting the project, THANK YOU!
 
 Please, read the disclaimer section before continuing. When contributing, keep in mind that this app is _- for me -_ already in an advanced state,
 and has almost all its main features already implemented. What will follow will be a bonus.
@@ -97,6 +97,6 @@ Any contributions are welcome. Here are a few ways you can help:
 * Translate the app
 * Make donations - either directly from the app (but Google will take its share, or by another future way to add here)
 
-Note that as long as the app is in open testing, the tips won't work in the app. The feature is on test only and you won't be charged.
+Note that as long as the app is in open testing, the in-app billing service won't work. The feature is only for test purpose and you won't be charged.
 
 Thank you very much!
