@@ -42,7 +42,7 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
 * No ads! This is a feel good app, so no ugly banners or annoying popup windows
 * No locked/premium content at the moment - _only a tipping system for the generous souls :D_
 * The app can use the device coarse location to determine its local sunrise and sunset times
-* Using this feature triggers a web request to [sunrise-sunset.org](https://sunrise-sunset.org/api)
+* Using this feature triggers a web request to [weather-api.com](https://www.weatherapi.com/)
 * No personal data is stored/used in any way by this app, other than to provide sunrise/sunset times
 * Low battery consumption - _never mentioned in any Android report. No significant impact on battery life noticed by the users_
 
