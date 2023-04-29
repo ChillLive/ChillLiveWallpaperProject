@@ -1,7 +1,7 @@
 <div align="center"> 
   
   # Chill Live Wallpaper Project 
-  _Early access - v0.40_
+  _Early access - v0.43_
 
 </div>
 
@@ -80,6 +80,10 @@ As a non professional app developer and working on this project as a hobby on my
 Please keep this in mind when using this app.
 
 ## :sun_behind_small_cloud: Known issues
+If you notice issues that are not in this list, please first check if your app is up to date. I often push new releases with experimental content that can sometimes break some features, or bring unwanted behaviors. When I notice it, I try to patch it as fast as I can. Your problem might be already solved in the newer versions of the app.
+
+If your problem isn't listed here, feel free to check the issue tab and open a new ticket :)
+
 * Scrolling can be slow, or even not happen on less powerful/older device. This is due to overdrawing scene layer/elements at high frame rate
 * Scrolling is not enabled in landscape mode, and the scene is a little weird
 * On certain devices, the first layer starts to delaminate on the right side of the scene
