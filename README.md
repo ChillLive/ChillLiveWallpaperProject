@@ -34,7 +34,7 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
 * Some of the scenes elements move or twinkle softly, such as the trees and stars
 * Different scenes are available, with more to come in the future - _if I'm satisfied with the outcome_
 * Easy one tap pseudo random scene shapes generation
-* Parallax effect when scrolling the home screen
+* Parallax effect when scrolling the home screen, or by tilting your device
 * Different "seasons" are available, changing the overall colors/scene and feel of the wallpaper
 
 #### What do you sign for?
@@ -51,27 +51,27 @@ You can use this app as a light/dark automatic mode. The battery consumption is 
 <img align="right" src="/Assets/showcaseGif.gif" width="200" height="450">
 
 **1. Times and colors**
-* Modify the app's behavior from here. Control the light of the scene by adjusting manually the time of the day, or just let it follows the real day&night cycle.
-* Allows the app to access your location to set the sunset/sunrise time to match your real position
+* Modify the app's behavior from here. Control the light of the scene by adjusting manually the time of the day, or just let it follows the day&night cycle
+* Allows the app to access your location to set the sunset/sunrise times to match your real position
 * Use a seed or generate a new pseudo random scene
-* Advanced settings control the behavior of the scrolling effect
+* Advanced settings to modify the behavior of the scrolling effect
 
 **2. Landscapes and seasons** 
 * Change the season to access a new variety of colors
-* Select the scene you like the most.
+* Select the scene you like the most
 
 **3. Set this background as wallpaper** 
 * Generate a live wallpaper preview based on the current app background
 
 **4. Contribute** 
-* App description, contribute to the project and rate the app from here
+* App description, contribute to the project and rate the app
 
 ## :hatching_chick: What's next?
 I have many ideas to implement, such as:
 * ~~More parallax settings~~ - _implemented_
 * Different landscapes and scenes
 * More color varieties
-* Details like the Moon, clouds
+* Details like the Moon, clouds, and so much more
 * Weather system - _in a far future_
 
 ## :exclamation: Disclaimer
