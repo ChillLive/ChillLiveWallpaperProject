@@ -86,7 +86,7 @@ If your problem isn't listed here, feel free to check the issue tab and open a n
 
 * Scrolling can be slow, or even not happen on less powerful/older device. This is due to overdrawing scene layer/elements at high frame rate
 * Scrolling is not enabled in landscape mode, and the scene is a little weird
-* On certain devices, the first layer starts to delaminate on the right side of the scene
+* On certain devices, the first layer starts to delaminate on the right side of the scene _Should be fixed in the next release, v0.44_
 * The contrast between the text and the background can be sometimes low, making it hard to read the options
 
 
