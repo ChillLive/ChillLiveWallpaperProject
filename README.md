@@ -89,6 +89,7 @@ If your problem isn't listed here, feel free to check the issue tab and open a n
 * Scrolling is not enabled in landscape mode
 * Some plan trails can disapear for no reason - _Will be fixed in the next update_
 * The contrast between the text and the background can be sometimes low, making it hard to read the options or other elements
+* On certain devices, the app can sometimes consume an insane amount of battery. It should normally use 1% of battery per day, not more
 
 
 ## ❤️ Support the project
