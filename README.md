@@ -1,7 +1,7 @@
 <div align="center"> 
   
   # Chill Live Wallpaper Project 
-  _Early access - v0.49_
+  _Early access - v0.51_
 
 </div>
 
