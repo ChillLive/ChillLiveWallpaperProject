@@ -11,7 +11,7 @@
 
 ## :mountain: A Chill live wallpaper?
 
-_This little app is meant to make one travel to different lands, tree sway in the wind and countless stars twinkle at night.
+_This little app is meant to transport you to different lands, where trees sway in the wind and countless stars twinkle at night.
 Every day, the Sun and the Moon rise and set at times based on your location, illuminating the scene in soft pastel colors. Through the year, the amount of snow and the color of the scene will change based on the season._
 
 _Enable the dynamic weather feature and see your wallpaper adjust throughout the day based on your surroundings._
