@@ -25,8 +25,6 @@ _You can use this app as a light/dark automatic mode. The battery consumption is
   
   [Dowload the app on Google Play Store](https://play.google.com/store/apps/details?id=com.chilllive.chillwallpaperproject)
   
-  This app is - _and will_ - **only** be available on Android
-  
   </div>
 
 ## ☀️ Features
